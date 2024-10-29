@@ -18,5 +18,8 @@ section {
     .classe_texto {
         margin-right: 20px;
 
-    .video
+    }
+
+    img{
+        height: 200px;
     }
